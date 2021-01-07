@@ -1,0 +1,9 @@
+C:\Learnings\EComm\EComm.Data\bin\Debug\netcoreapp3.1\EComm.Data.deps.json
+C:\Learnings\EComm\EComm.Data\bin\Debug\netcoreapp3.1\EComm.Data.dll
+C:\Learnings\EComm\EComm.Data\bin\Debug\netcoreapp3.1\EComm.Data.pdb
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.csprojAssemblyReference.cache
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.AssemblyInfoInputs.cache
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.AssemblyInfo.cs
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.csproj.CoreCompileInputs.cache
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.dll
+C:\Learnings\EComm\EComm.Data\obj\Debug\netcoreapp3.1\EComm.Data.pdb

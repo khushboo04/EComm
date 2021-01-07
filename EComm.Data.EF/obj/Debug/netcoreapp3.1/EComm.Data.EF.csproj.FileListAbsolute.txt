@@ -1,0 +1,12 @@
+C:\Learnings\EComm\EComm.Data.EF\bin\Debug\netcoreapp3.1\EComm.Data.EF.deps.json
+C:\Learnings\EComm\EComm.Data.EF\bin\Debug\netcoreapp3.1\EComm.Data.EF.dll
+C:\Learnings\EComm\EComm.Data.EF\bin\Debug\netcoreapp3.1\EComm.Data.EF.pdb
+C:\Learnings\EComm\EComm.Data.EF\bin\Debug\netcoreapp3.1\EComm.Data.dll
+C:\Learnings\EComm\EComm.Data.EF\bin\Debug\netcoreapp3.1\EComm.Data.pdb
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.csprojAssemblyReference.cache
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.AssemblyInfoInputs.cache
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.AssemblyInfo.cs
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.csproj.CoreCompileInputs.cache
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.csproj.CopyComplete
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.dll
+C:\Learnings\EComm\EComm.Data.EF\obj\Debug\netcoreapp3.1\EComm.Data.EF.pdb
